@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Dockable.qml</file>
+        <file>icons/close-24px.svg</file>
+        <file>icons/launch-24px.svg</file>
+    </qresource>
+</RCC>
